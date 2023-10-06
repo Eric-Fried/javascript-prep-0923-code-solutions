@@ -5,8 +5,11 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
+  all data types
 
 - Describe the syntax (structure) of object-literals in JavaScript.
+
+declare object, open curly brace, specify properties and key value pairs, close curly brace
 
 ## Notes
 
